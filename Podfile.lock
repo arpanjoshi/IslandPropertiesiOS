@@ -1,0 +1,20 @@
+PODS:
+  - MMNumberKeyboard (0.1.6)
+  - ObjectiveDropboxOfficial (3.1.2)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+
+DEPENDENCIES:
+  - MMNumberKeyboard
+  - ObjectiveDropboxOfficial
+  - SDWebImage (~> 3.8)
+
+SPEC CHECKSUMS:
+  MMNumberKeyboard: 4bac4f0402ef73c92bb6594d9c7469a9add63589
+  ObjectiveDropboxOfficial: 9a147eccd987723f6b25b6923f57a5b3fcd3f4bd
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+
+PODFILE CHECKSUM: a6bef511556411f44ed2af6a210bfc440715b4c2
+
+COCOAPODS: 1.2.1
