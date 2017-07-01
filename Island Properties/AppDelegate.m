@@ -2,8 +2,8 @@
 //  AppDelegate.m
 //  Island Properties
 //
-//  Created by Tech Eclat on 29/06/17.
-//  Copyright © 2017 Tech Eclat. All rights reserved.
+//  Created by TechRajSolutions on 29/06/17.
+//  Copyright © 2017 TechRajSolutions. All rights reserved.
 //
 
 #import "AppDelegate.h"
