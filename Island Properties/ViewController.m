@@ -74,7 +74,9 @@
     }
     else
     {
-        [self authorizeDB];
+        // [self authorizeDB];
+        self.btnDropbox.hidden = YES;
+        self.btnLogout.hidden = YES;
     }
 }
 
